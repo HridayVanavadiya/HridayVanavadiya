@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on NIDS project
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on ML/DL projects
 
 
 <!--
