@@ -10,8 +10,9 @@ I’m [**Hriday**], a engineer based in India. I like building AI powered apps w
 ---
 
 **Some stuff I built:**
-- [Inrtusion Detection System](https://github.com/HridayVanavadiya/Inrtusion-Detection-System) -  A system that detects and explains malicious network traffic using flow-based features and machine learning.
+- [Inrtusion Detection System](https://github.com/HridayVanavadiya/Inrtusion-Detection-System) -  A system that detects and explains malicious network traffic.
 - [Computer Vision Experiments](https://github.com/HridayVanavadiya/Computer-Vision) -  Few experiments based on Computer vision.
+- [My Portfolio](https://github.com/HridayVanavadiya/Portfolio) -  My portfolio website which shows all my hardwork.
 
 ---
 
